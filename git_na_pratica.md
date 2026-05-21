@@ -1,1 +1,2 @@
-Atividade prática de Git
+Conteúdo do arquivo em uma nova branch
+
